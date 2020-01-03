@@ -2,7 +2,7 @@
 Mobile App Design Demo
 
 ### App Walk-though
-<img src="http://g.recordit.co/ef6Z0wukrK.gif" width=200><br>
+<img src="http://g.recordit.co/a91g8s21ZD.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
@@ -16,5 +16,5 @@ Mobile App Design Demo
 - [X] 4. User can update the label text with custom text entered into the text field.
    - [X] a. User can enter text into a text field using the keyboard.
    - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
+   - [X] c. If the text field is empty, update label with default text string.
    - [X] d. The keyboard is dismissed after the button has been tapped.
